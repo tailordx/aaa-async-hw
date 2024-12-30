@@ -28,5 +28,4 @@ async def coroutines_execution_order(i: int = 42) -> int:
     # i = 7
     # return 12212
     await task_1(i)
-
-    # YOUR CODE GOES HERE
+    return 122122122
